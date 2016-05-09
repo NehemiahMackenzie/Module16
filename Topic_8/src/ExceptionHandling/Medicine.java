@@ -42,9 +42,6 @@ public class Medicine {
 			DisplayData();
 			break;
 			
-		case 3:
-			DeleteData();
-			break;
 			default: System.out.println("You Wrong");
 		}
 		
